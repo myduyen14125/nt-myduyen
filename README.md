@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Nguyễn Trần Mỹ Duyên (You can also call me Yuu) !
+### Hi there 👋, I'm Nguyễn Trần Mỹ Duyên (You can call me Yuu) !
 
 ### About me: 
 

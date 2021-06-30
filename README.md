@@ -2,9 +2,9 @@
 
 ### About me: 
 
-💻 I'm currently studying at Da Nang University of Science and Techonology.
-📈 I'm learning Frontend Web Development with JS and VueJS.
-👯 I’m desiring to collaborate on frontend web projects (though I just can provide small help but I'll do my best)
+💻 I'm currently studying at Da Nang University of Science and Techonology.<br>
+📈 I'm learning Frontend Web Development with JS and VueJS.<br>
+👯 I’m desiring to collaborate on frontend web projects (though I just can provide small help but I'll do my best)<br>
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

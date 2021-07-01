@@ -1,11 +1,14 @@
 ### Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>, I'm Nguyễn Trần Mỹ Duyên (You can call me Yuu) !
 
-### About me: 
+## 📖 About me
 
-- 💻 I'm currently studying at Da Nang University of Science and Techonology.<br>
-- 📈 I'm learning Frontend Web Development with JS and VueJS.<br>
-- 👯 I’m desiring to collaborate on frontend web projects (though I just can provide small help but I'll do my best)<br>
+* 🎓 I'm currently studying at Da Nang University of Science and Techonology
+* 💻 I'm a frontend web developer 
+* 📈 I'm currently learning more about JS and VueJS
+* 👯 I’m desiring to collaborate on frontend web projects (though I just can provide small help but I'll do my best)<br>
 
+<p align="left">
+  <a href="https://nt-myduyen.github.io/FrontendWeb/CV/CV1/index1.html"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

@@ -21,7 +21,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
-
+## 📈 My Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=nt-myduyen&&show_icons=true&title_color=00ffff&icon_color=cc66ff&text_color=daf7dc&bg_color=1e2731">
 
 ## 🔥 My contribution streak

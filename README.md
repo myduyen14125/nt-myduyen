@@ -3,7 +3,7 @@
 ## 📖 About me
 
 * 🎓 I'm currently studying at Da Nang University of Science and Techonology
-* 💻 I'm a frontend web developer 
+* 💻 I'm a frontend web fresher
 * 📈 I'm currently learning more about JS and VueJS
 * 👯 I’m desiring to collaborate on frontend web projects (though I just can provide small help but I'll do my best)<br>
 

@@ -9,6 +9,9 @@
 
 <p align="left">
   <a href="https://nt-myduyen.github.io/FrontendWeb/CV/CV1/index1.html"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
+ </p>
+ 
+ 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -20,3 +23,11 @@
  -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=nt-myduyen&&show_icons=true&title_color=00ffff&icon_color=cc66ff&text_color=daf7dc&bg_color=1e2731">
+
+## 🔥 My contribution streak
+
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nt-myduyen"/>
+  </a>
+</p>

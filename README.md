@@ -3,9 +3,9 @@
 ## 📖 About me
 
 * 🎓 I'm currently studying at Da Nang University of Science and Techonology
-* 💻 I'm a frontend web fresher
+* 💻 I'm a frontend web newbie-fresher
 * 📈 I'm currently learning more about JS and VueJS
-* 👯 I’m desiring to collaborate on frontend web projects (though I just can provide small help but I'll do my best)<br>
+* 👯 I’m desiring to collaborate on frontend web projects <br>
 
 <p align="left">
   <a href="https://nt-myduyen.github.io/FrontendWeb/CV/CV1/index1.html"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
